@@ -1,3 +1,2 @@
-# word2vec
-Google の word2vec のオリジナル実装と独自の javascript 実装
+# Google の word2vec のオリジナル実装と独自の javascript 実装
 
